@@ -3,7 +3,7 @@
 ### This program application takes user input through text-based prompts to help user "book" a hotel room with various assets and upgrades and then repeats the entire booking details back to user.
 ------------------------------------
 **How it's Made:**
-Tech Used: _Java_\
+Tech Used: _Java_
 
 - imported a scanner
 - organized our variables for the booking menu
@@ -17,7 +17,7 @@ Tech Used: _Java_\
     - using conditional branches
     - creating branches within branches for more complex decision making
  
-** program breakdown: **
+# **program breakdown:**
 - Start program
     - Start program choice (option 1 and 2)
         - Get user input for start program
