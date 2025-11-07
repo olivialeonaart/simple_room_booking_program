@@ -1,8 +1,8 @@
 # <ins>**Simple Room Booking Program Project:**</ins>
 ------------------------------------
-### This program application takes user input through text-based prompts to help user "book" a hotel room with various assets and upgrades and then repeats the entire booking details back to user.
-------------------------------------
-**How it's Made:**
+### This program application takes user input through text-based prompts to help user "book" a hotel room with various assets and upgrades and then repeats the entire booking details back to user. <br><br>
+
+**How it's Made:**<br>
 Tech Used: _Java_  <br>
 
 - imported a scanner
@@ -17,7 +17,7 @@ Tech Used: _Java_  <br>
     - using conditional branches
     - creating branches within branches for more complex decision making
  
-### **program breakdown:**
+### <ins>**Program Breakdown:**<ins> <br>
 - Start program
     - Start program choice (option 1 and 2)
         - Get user input for start program
